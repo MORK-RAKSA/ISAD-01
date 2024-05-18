@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Y:\\C Sharp\\ISAD\\ISAD Assignment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{165A6EC0-998D-4684-B892-4164F7ADF4A5}|ISAD Assignment.csproj|Y:\\C Sharp\\ISAD\\ISAD Assignment\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{165A6EC0-998D-4684-B892-4164F7ADF4A5}|ISAD Assignment.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{165A6EC0-998D-4684-B892-4164F7ADF4A5}|ISAD Assignment.csproj|Y:\\C Sharp\\ISAD\\ISAD Assignment\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{165A6EC0-998D-4684-B892-4164F7ADF4A5}|ISAD Assignment.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{165A6EC0-998D-4684-B892-4164F7ADF4A5}|ISAD Assignment.csproj|y:\\c sharp\\isad\\isad assignment\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{165A6EC0-998D-4684-B892-4164F7ADF4A5}|ISAD Assignment.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{165A6EC0-998D-4684-B892-4164F7ADF4A5}|ISAD Assignment.csproj|y:\\c sharp\\isad\\isad assignment\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{165A6EC0-998D-4684-B892-4164F7ADF4A5}|ISAD Assignment.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{165A6EC0-998D-4684-B892-4164F7ADF4A5}|ISAD Assignment.csproj|Y:\\C Sharp\\ISAD\\ISAD Assignment\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,10 +38,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
@@ -63,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "Y:\\C Sharp\\ISAD\\ISAD Assignment\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
@@ -76,7 +72,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "Y:\\C Sharp\\ISAD\\ISAD Assignment\\frmLogin.cs",
               "RelativeDocumentMoniker": "frmLogin.cs",
