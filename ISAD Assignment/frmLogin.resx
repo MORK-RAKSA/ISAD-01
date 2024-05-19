@@ -124,6 +124,28 @@
     <value>17, 17</value>
   </metadata>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="txtPassword.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAeAAAAAyCAYAAACEVQgFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEESURBVHhe7dVBDcMwAARB80flyDAKowAaWfKnAJL9zEj3
+        OQI7AIDIWusz5/yZmZnZs9vNPfkdYx8AwPN2c09+BRgA3iLAABAQYAAICDAABAQYAAICDAABAQaAgAAD
+        QECAASAgwAAQEGAACAgwAAQEGAACAgwAAQEGgIAAA0BAgAEgIMAAEBBgAAgIMAAEBBgAAgIMAAEBBoCA
+        AANAQIABICDAABAQYAAICDAABAQYAAICDAABAQaAgAADQECAASAgwAAQEGAACAgwAAQEGAACAgwAAQEG
+        gIAAA0BAgAEgIMAAEBBgAAgIMAAEBBgAAn8Bvq7ruw8zMzN7dru5J78AwLvGuAE4rCg/SbN8NwAAAABJ
+        RU5ErkJggg==
+</value>
+  </data>
+  <data name="txtUsername.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAeAAAAAyCAYAAACEVQgFAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
+        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEESURBVHhe7dVBDcMwAARB80flyDAKowAaWfKnAJL9zEj3
+        OQI7AIDIWusz5/yZmZnZs9vNPfkdYx8AwPN2c09+BRgA3iLAABAQYAAICDAABAQYAAICDAABAQaAgAAD
+        QECAASAgwAAQEGAACAgwAAQEGAACAgwAAQEGgIAAA0BAgAEgIMAAEBBgAAgIMAAEBBgAAgIMAAEBBoCA
+        AANAQIABICDAABAQYAAICDAABAQYAAICDAABAQaAgAADQECAASAgwAAQEGAACAgwAAQEGAACAgwAAQEG
+        gIAAA0BAgAEgIMAAEBBgAAgIMAAEBBgAAn8Bvq7ruw8zMzN7dru5J78AwLvGuAE4rCg/SbN8NwAAAABJ
+        RU5ErkJggg==
+</value>
+  </data>
   <data name="loginBG.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         /9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsN
@@ -2628,26 +2650,4 @@
   <metadata name="frmLoginDrag1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>145, 17</value>
   </metadata>
-  <data name="bunifuTextBox1.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAeUAAAA3CAYAAAAysVLyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEdSURBVHhe7dVBDcMwAARB80flyDAKowAaWfKnBJJ9zEj3
-        OQI7AICQtdZnzvkzMzOz57c7fJI8xj4AgHfsDp8kizIAvEmUASBClAEgQpQBIEKUASBClAEgQpQBIEKU
-        ASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKU
-        ASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKU
-        ASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASDiL8rXdX33YWZm
-        Zs9vd/gkGQB43xg3ChVuZulZU3oAAAAASUVORK5CYII=
-</value>
-  </data>
-  <data name="bunifuTextBox2.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        iVBORw0KGgoAAAANSUhEUgAAAeUAAAA3CAYAAAAysVLyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEdSURBVHhe7dVBDcMwAARB80flyDAKowAaWfKnBJJ9zEj3
-        OQI7AICQtdZnzvkzMzOz57c7fJI8xj4AgHfsDp8kizIAvEmUASBClAEgQpQBIEKUASBClAEgQpQBIEKU
-        ASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKU
-        ASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKU
-        ASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASBClAEgQpQBIEKUASDiL8rXdX33YWZm
-        Zs9vd/gkGQB43xg3ChVuZulZU3oAAAAASUVORK5CYII=
-</value>
-  </data>
 </root>

@@ -12,6 +12,10 @@ Y:\C Sharp\ISAD\ISAD Assignment\obj\Debug\ISAD Assignment.pdb
 Y:\C Sharp\ISAD\ISAD Assignment\obj\Debug\ISAD_Assignment.frmLogin.resources
 Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Siticone.UI.dll
 Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
-Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.Licensing.dll
 Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
 Y:\C Sharp\ISAD\ISAD Assignment\obj\Debug\ISAD Assignment.exe.licenses
+Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+Y:\C Sharp\ISAD\ISAD Assignment\obj\Debug\ISAD_Assignment.form.frmMain.resources
