@@ -16,5 +16,34 @@ namespace ISAD_Assignment.form
         {
             InitializeComponent();
         }
+
+        protected override CreateParams CreateParams
+        {
+            get
+            {
+                CreateParams handleParams = base.CreateParams;
+               // handleParams.ExStyle |= 0x02000000;
+                return handleParams;
+            }
+        }
+
+        private void frmMain_Load(object sender, EventArgs e)
+        {
+            this.WindowState = FormWindowState.Maximized;
+            timer1.Start();
+            frmRegister frmRegister = new frmRegister();
+            frmRegister.Hide();
+        }
+
+        private void timer1_Tick_1(object sender, EventArgs e)
+        {
+            Opacity += .2;
+        }
+
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+            frmRegister frmRegister = new frmRegister();
+            frmRegister.Show();
+        }
     }
 }

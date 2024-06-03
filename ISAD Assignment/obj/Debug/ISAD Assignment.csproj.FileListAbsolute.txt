@@ -19,3 +19,8 @@ Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
 Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
 Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
 Y:\C Sharp\ISAD\ISAD Assignment\obj\Debug\ISAD_Assignment.form.frmMain.resources
+Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+Y:\C Sharp\ISAD\ISAD Assignment\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+Y:\C Sharp\ISAD\ISAD Assignment\obj\Debug\ISAD_Assignment.form.frmRegister.resources
